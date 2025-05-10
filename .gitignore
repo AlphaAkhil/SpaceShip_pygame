@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Pygame or SDL cache (if any)
+*.log
+
+# VSCode or other IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git-related
+*.orig
+
+# Test or game builds
+build/
+dist/
+*.exe
+*.app
+*.so
+*.dll
+*.pyd
