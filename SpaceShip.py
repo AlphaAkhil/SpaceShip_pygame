@@ -13,7 +13,7 @@ isGameOver = False
 SPEED = 5
 BULLETCOLOR = (255,0,0)
 BULLETSPEED = 10
-FONTCOLOR = (255,255,255)
+FONTCOLOR = (3,198,215)
 
 def GameOver()->bool:
     return isGameOver
