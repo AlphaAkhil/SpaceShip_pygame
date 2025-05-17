@@ -23,7 +23,7 @@ SPACE = pygame.transform.scale(pygame.image.load(os.path.join('Assets', 'space.j
 
 
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("First Game!")
+pygame.display.set_caption("space ship war!")
 
 
 
